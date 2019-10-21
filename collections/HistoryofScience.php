@@ -45,7 +45,7 @@ Thunder 2 at Nye Beach
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1228&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in History of Science</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1228&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in History of Science</a>
 </h6>
 <p></p>
 </div>

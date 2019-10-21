@@ -45,7 +45,7 @@ Harriet Beecher Stowe : the story of her life
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1216&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in American Travelers in Italy</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1216&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in American Travelers in Italy</a>
 </h6>
 <p></p>
 </div>

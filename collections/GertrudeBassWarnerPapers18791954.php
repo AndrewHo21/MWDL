@@ -45,7 +45,7 @@ The Gertrude Bass Warner papers, 1879�1954, consist of correspondence, busines
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2491&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Gertrude Bass Warner Papers,, 1879-1954</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2491&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Gertrude Bass Warner Papers,, 1879-1954</a>
 </h6>
 <p></p>
 </div>

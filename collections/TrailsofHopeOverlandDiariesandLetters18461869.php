@@ -45,7 +45,7 @@ Grantham, William
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1064&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Trails of Hope: Overland Diaries and Letters 1846-1869</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1064&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Trails of Hope: Overland Diaries and Letters 1846-1869</a>
 </h6>
 <p></p>
 </div>

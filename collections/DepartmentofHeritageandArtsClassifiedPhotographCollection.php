@@ -45,7 +45,7 @@ Union Pacific Railroad P. 60
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1038&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Department of Heritage and Arts Classified Photograph Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1038&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Department of Heritage and Arts Classified Photograph Collection</a>
 </h6>
 <p></p>
 </div>

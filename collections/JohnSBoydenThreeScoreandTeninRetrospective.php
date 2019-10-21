@@ -45,7 +45,7 @@ John Boyden
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1199&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in John S. Boyden: Three Score and Ten in Retrospective</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1199&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in John S. Boyden: Three Score and Ten in Retrospective</a>
 </h6>
 <p></p>
 </div>

@@ -22,6 +22,6 @@ The items in the Petrarch digital collection support the Oregon Petrarch Open Bo
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2509&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Petrarch Canzionere</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2509&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Petrarch Canzionere</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

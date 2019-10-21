@@ -45,7 +45,7 @@ This series is an effort to preserve a history of the World War I war record of 
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2529&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah State Historical Society World War I Records Dead Roster</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2529&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah State Historical Society World War I Records Dead Roster</a>
 </h6>
 <p></p>
 </div>

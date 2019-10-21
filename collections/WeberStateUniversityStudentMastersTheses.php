@@ -45,7 +45,7 @@ Handy, Michael Todd
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2019&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Weber State University Student Master's Theses</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2019&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Weber State University Student Master's Theses</a>
 </h6>
 <p></p>
 </div>

@@ -45,7 +45,7 @@ Proclamation
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1835&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Governor Brigham Young (1850-1857) Special Election Proclamation</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1835&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Governor Brigham Young (1850-1857) Special Election Proclamation</a>
 </h6>
 <p></p>
 </div>

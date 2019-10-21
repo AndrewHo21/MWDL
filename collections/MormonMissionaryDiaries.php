@@ -45,7 +45,7 @@ Boyle, Henry Green vol. 04, 1858-1867
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1218&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Mormon Missionary Diaries</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1218&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Mormon Missionary Diaries</a>
 </h6>
 <p></p>
 </div>

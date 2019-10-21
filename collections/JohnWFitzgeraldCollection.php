@@ -45,7 +45,7 @@ Transition - From Sagebrush to Satellite
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1171&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in John W. Fitzgerald Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1171&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in John W. Fitzgerald Collection</a>
 </h6>
 <p></p>
 </div>

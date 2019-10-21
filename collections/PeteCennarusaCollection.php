@@ -45,7 +45,7 @@ Pete Cenarrusa was born in Carey, Idaho, on December 16, 1917. His parents, Jose
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2219&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Pete Cennarusa Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2219&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Pete Cennarusa Collection</a>
 </h6>
 <p></p>
 </div>

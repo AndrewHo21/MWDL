@@ -45,7 +45,7 @@ The University of Oregon Libraries holds the only known collection of Japanese s
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2492&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Gertrude Bass Warner Collection of Japanese Votive Slips (n_satsu), 1850s to 1930s</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2492&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Gertrude Bass Warner Collection of Japanese Votive Slips (n_satsu), 1850s to 1930s</a>
 </h6>
 <p></p>
 </div>

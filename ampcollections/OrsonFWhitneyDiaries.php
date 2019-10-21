@@ -22,6 +22,6 @@ Orson Ferguson Whitney was born in Salt Lake City, Utah, on Sunday, July 1, 1855
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2427&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Orson F. Whitney Diaries</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2427&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Orson F. Whitney Diaries</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

@@ -22,6 +22,6 @@ Department of Justice Letter 1890
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1879&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Governor Arthur L. Thomas (1889-1893) Correspondence</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1879&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Governor Arthur L. Thomas (1889-1893) Correspondence</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

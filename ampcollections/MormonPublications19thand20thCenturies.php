@@ -22,6 +22,6 @@ Nineteenth Century Mormon Publications: 1847 to 1877
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1085&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Mormon Publications: 19th and 20th Centuries</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1085&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Mormon Publications: 19th and 20th Centuries</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

@@ -383,6 +383,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "CapitolCommissionPhotographs.php">Capitol Commission Photographs</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
 </tr>
+<!-- Collection #2643 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "CarbonCountyUtahVitalRecords.php">Carbon County (Utah) Vital Records</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
+</tr>
 <!-- Collection #2542 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "CarbonCountyCoalStrikeReords.php">Carbon County Coal Strike Reords</a></td>
@@ -476,7 +481,7 @@
 <!-- Collection #2615 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "CivilianConservationCorpsNewslettersCollection19351941.php">Civilian Conservation Corps Newsletters Collection, ...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/JWillardMarriottLibrary.php">J. Willard Marriott Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
 </tr>
 <!-- Collection #1037 -->
 <tr>
@@ -793,6 +798,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "FacingtheColorLineRaceandEthnicityinCacheValley.php">Facing the Color Line: Race and Ethnicity in Cache V...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
 </tr>
+<!-- Collection #2628 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "FifeFolkloreArchivesOralHistoriesCommunityDrivenCollections.php">Fife Folklore Archives Oral Histories: Community-Dri...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
+</tr>
 <!-- Collection #1135 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "FifeSlideCollectionofWesternUSVernacularArchitecture.php">Fife Slide Collection of Western U.S. Vernacular Arc...</a></td>
@@ -961,6 +971,11 @@
 <!-- Collection #2227 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "GoldenSpikeOralHistoryPapers.php">Golden Spike Oral History Papers</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
+</tr>
+<!-- Collection #2621 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "GoldenSpikeSesquicentennial.php">Golden Spike Sesquicentennial</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
 </tr>
 <!-- Collection #2294 -->
@@ -1297,6 +1312,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "JournalofMormonHistory.php">Journal of Mormon History</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/MormonHistoryAssociation.php">Mormon History Association</a></td>
+</tr>
+<!-- Collection #2629 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "JuanitaBrooksPapers.php">Juanita Brooks Papers</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
 </tr>
 <!-- Collection #1908 -->
 <tr>
@@ -1907,6 +1927,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MiddleEastCollections.php">Middle East Collections</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
+</tr>
+<!-- Collection #2630 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "MidvaleUTMuseum.php">Midvale (UT) Museum</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/MidvaleUTMuseum.php">Midvale (UT) Museum</a></td>
 </tr>
 <!-- Collection #1839 -->
 <tr>
@@ -2963,6 +2988,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahCouncilofLandSurveyors.php">Utah Council of Land Surveyors</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahCouncilofLandSurveyors.php">Utah Council of Land Surveyors</a></td>
 </tr>
+<!-- Collection #2620 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahCountyUtahVitalRecords.php">Utah County (Utah) Vital Records</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
+</tr>
 <!-- Collection #2447 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahDepartmentofHealthSheepRadiationStudies.php">Utah Department of Health Sheep Radiation Studies</a></td>
@@ -3037,6 +3067,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahGovernorBrighamYoung18501857SpecialElectionProclamation.php">Utah Governor Brigham Young (1850-1857) Special Elec...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
+</tr>
+<!-- Collection #2622 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahGovernorClyde19571965Collection.php">Utah Governor Clyde (1957-1965) Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversity.php">Utah State University</a></td>
 </tr>
 <!-- Collection #1880 -->
 <tr>

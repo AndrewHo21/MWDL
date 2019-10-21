@@ -45,7 +45,7 @@ Charles Wellington Furlong (1874-1967) was an explorer, writer and scientist who
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2257&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Charles W. Furlong (1874-1967) photographs, 1895-1965</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2257&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Charles W. Furlong (1874-1967) photographs, 1895-1965</a>
 </h6>
 <p></p>
 </div>

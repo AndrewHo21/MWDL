@@ -22,6 +22,6 @@ The Fountain House, menu, pages 2-3
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1563&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Menus: The Art of Dining</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1563&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Menus: The Art of Dining</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

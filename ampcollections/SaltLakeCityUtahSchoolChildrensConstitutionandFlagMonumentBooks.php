@@ -22,6 +22,6 @@ This series contains two books compiled by the school district to document and c
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2449&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Salt Lake City (Utah) School Children's Constitution and Flag Monument Books</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2449&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Salt Lake City (Utah) School Children's Constitution and Flag Monument Books</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

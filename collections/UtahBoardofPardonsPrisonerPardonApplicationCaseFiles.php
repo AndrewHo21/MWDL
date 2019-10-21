@@ -45,7 +45,7 @@ Alma Murdock's Pardon Application
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1209&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Board of Pardons: Prisoner Pardon Application Case Files</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1209&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Board of Pardons: Prisoner Pardon Application Case Files</a>
 </h6>
 <p></p>
 </div>

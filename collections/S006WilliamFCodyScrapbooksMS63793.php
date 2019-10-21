@@ -45,7 +45,7 @@ Newspaper clippings and illustrations regarding Buffalo Bill's Wild West and ass
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2398&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in S 006 William F. Cody Scrapbooks MS6.3793</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2398&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in S 006 William F. Cody Scrapbooks MS6.3793</a>
 </h6>
 <p></p>
 </div>

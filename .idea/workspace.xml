@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7647c29-cd35-4061-a3e5-19fad21d35de" name="Default Changelist" comment="Updated working webmanagement">
+    <list default="true" id="e7647c29-cd35-4061-a3e5-19fad21d35de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ampcollections/CarbonCountyUtahVitalRecords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ampcollections/FifeFolkloreArchivesOralHistoriesCommunityDrivenCollections.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ampcollections/GoldenSpikeSesquicentennial.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ampcollections/JuanitaBrooksPapers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ampcollections/MidvaleUTMuseum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ampcollections/UtahCountyUtahVitalRecords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ampcollections/UtahGovernorClyde19571965Collection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionData073019.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionData101519.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/CarbonCountyUtahVitalRecords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/FifeFolkloreArchivesOralHistoriesCommunityDrivenCollections.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/GoldenSpikeSesquicentennial.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/JuanitaBrooksPapers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/MidvaleUTMuseum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/UtahCountyUtahVitalRecords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections/UtahGovernorClyde19571965Collection.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ampcollections/AfricanAmericanExperience.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/AfricanAmericanExperience.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ampcollections/AfricanPoliticalEphemeraandRealiaProject.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/AfricanPoliticalEphemeraandRealiaProject.php" afterDir="false" />
@@ -1222,7 +1238,29 @@
       <change beforePath="$PROJECT_DIR$/collections/aCollections.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/aCollections.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collections/collections.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/collections.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collections/pCollections.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/pCollections.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/analytics/AnalyticsEmailGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/analytics/AnalyticsEmailGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/analytics/AnalyticsGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/analytics/AnalyticsGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/analytics/AnalyticsPartner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/analytics/AnalyticsPartner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/analytics/OldAnalyticsGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/analytics/OldAnalyticsGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/data/CreateNewCollectionsCSV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/data/CreateNewCollectionsCSV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/data/CreateNewPartnerCSV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/data/CreateNewPartnerCSV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/data/DataFetcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/data/DataFetcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/data/ProjectConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/data/ProjectConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/interview/FizzFun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/interview/FizzFun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/interview/ReverseLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/interview/ReverseLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/interview/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/interview/ReverseLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/toolkit/Section.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/toolkit/Section.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/toolkit/WriteEducationToolkitFromCSV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/toolkit/WriteEducationToolkitFromCSV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/Collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/Collection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/CollectionPageMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/CollectionPageMaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/GeneratePartnerMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/GeneratePartnerMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/Partner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/Partner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/PartnerPageMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/PartnerPageMaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/WriteCollectionFromCSV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/WriteCollectionFromCSV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/WritePartnerFromCSV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/webManagement/WritePartnerFromCSV.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/mwdl/webManagement/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/mwdl/webManagement/Collection.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1234,55 +1272,8 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/mwdl/webManagement/Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="102" column="15" selection-start-line="102" selection-start-column="15" selection-end-line="102" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/mwdl/data/DataFetcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-990">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/mwdl/webManagement/WriteCollectionFromCSV.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1680" />
@@ -1290,55 +1281,16 @@
     <option name="width" value="1440" />
     <option name="height" value="825" />
   </component>
+  <component name="ProjectId" id="1SWNEX9bAWptp8HCBK2U4y7Pk9F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mwdl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mwdl" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mwdl" type="462c0819:PsiDirectoryNode" />
-              <item name="webManagement" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andre\IdeaProjects" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1390,93 +1342,33 @@
       <option name="project" value="LOCAL" />
       <updated>1570564265200</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated collection">
+      <created>1570565498770</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570565498770</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25955734" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32956153" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32956153" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated working webmanagement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated working webmanagement" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/collectionData040319.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collectionData040219.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mwdl/webManagement/CollectionMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1139">
-          <folding>
-            <element signature="e#0#18031#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mwdl/data/DataFetcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-990">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mwdl/webManagement/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="102" column="15" selection-start-line="102" selection-start-column="15" selection-end-line="102" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mwdl/webManagement/WriteCollectionFromCSV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
+    <MESSAGE value="Updated collection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated collection" />
   </component>
   <component name="masterDetails">
     <states>

@@ -22,6 +22,6 @@ On November 18, 2016, in the Bingham Gallery of UVU's Fulton Library, an amazing
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2330&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Roots of Knowledge: Behind the Scenes</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2330&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Roots of Knowledge: Behind the Scenes</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

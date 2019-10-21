@@ -22,6 +22,6 @@ Boy in Pilgrim costume from Fox and Symons Studio. Contributed by Carol Ann Wigh
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2061&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Pioneers In Your Attic from Utah Valley University</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2061&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Pioneers In Your Attic from Utah Valley University</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

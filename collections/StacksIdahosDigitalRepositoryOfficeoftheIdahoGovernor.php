@@ -45,7 +45,7 @@ Idaho Children's Trust Fund publication
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2142&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Stacks: Idaho's Digital Repository - Office of the Idaho Governor</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2142&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Stacks: Idaho's Digital Repository - Office of the Idaho Governor</a>
 </h6>
 <p></p>
 </div>

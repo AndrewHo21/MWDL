@@ -22,6 +22,6 @@ Legal documents from 1904-05 regarding the divorce of William F. Cody.
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2336&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in MS 166 - William F. Cody Divorce Proceedings</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2336&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in MS 166 - William F. Cody Divorce Proceedings</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

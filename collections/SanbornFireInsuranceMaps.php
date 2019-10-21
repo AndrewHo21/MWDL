@@ -45,7 +45,7 @@ Salt Lake City, 1889: Key map
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1173&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Sanborn Fire Insurance Maps</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1173&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Sanborn Fire Insurance Maps</a>
 </h6>
 <p></p>
 </div>

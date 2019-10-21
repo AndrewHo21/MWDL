@@ -45,7 +45,7 @@ Main Street American Fork, Utah, Looking toward Mount Timpanogos, 1957
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2148&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Historical American Fork (UT)</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2148&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Historical American Fork (UT)</a>
 </h6>
 <p></p>
 </div>

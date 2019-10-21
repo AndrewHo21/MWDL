@@ -45,7 +45,7 @@
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1262&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Cookery and Culture</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1262&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Cookery and Culture</a>
 </h6>
 <p></p>
 </div>

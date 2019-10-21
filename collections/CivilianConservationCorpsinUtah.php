@@ -45,7 +45,7 @@ USHS_PR_Page 22Provo River
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1037&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Civilian Conservation Corps in Utah</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1037&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Civilian Conservation Corps in Utah</a>
 </h6>
 <p></p>
 </div>

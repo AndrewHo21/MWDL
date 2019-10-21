@@ -101,7 +101,7 @@ public class Collection {
      * @return the Exlibirs browse link
      */
     public String getExlibirisLink(){
-        return "http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact"
+        return "https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact"
                 + collectionNumber
                 + "&tab=default_tab&search_scope=mw&vid=MWDL&offset=0";
     }

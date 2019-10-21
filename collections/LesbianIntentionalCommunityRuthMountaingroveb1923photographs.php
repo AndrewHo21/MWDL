@@ -45,7 +45,7 @@ Ruth Mountaingrove (1923- ) is a photographer, writer and artist who moved to Or
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2266&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Lesbian Intentional Community: Ruth Mountaingrove (b.1923) photographs</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2266&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Lesbian Intentional Community: Ruth Mountaingrove (b.1923) photographs</a>
 </h6>
 <p></p>
 </div>

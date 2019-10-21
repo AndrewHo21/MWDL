@@ -22,6 +22,6 @@ Oral history interview with Ray Allred
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1925&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Fruits of their Labors</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1925&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Fruits of their Labors</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

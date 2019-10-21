@@ -22,6 +22,6 @@ Idaho Dept. of Health and Welfare guide HW-0608R2.
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2143&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Stacks: Idaho's Digital Repository - Idaho Department of Health and Welfare</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2143&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Stacks: Idaho's Digital Repository - Idaho Department of Health and Welfare</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

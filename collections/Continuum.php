@@ -45,7 +45,7 @@ Continuum 1993 Summer (Vol. 3, no. 1)
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1221&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Continuum</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1221&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Continuum</a>
 </h6>
 <p></p>
 </div>

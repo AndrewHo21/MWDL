@@ -22,6 +22,6 @@ Bivouac Area at White Mesa near Blanding, Utah
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1012&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Green River Launch Complex, U.S. Air Force</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1012&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Green River Launch Complex, U.S. Air Force</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

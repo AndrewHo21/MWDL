@@ -45,7 +45,7 @@ Gold and Blue 1905 02 17
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1300&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Neuro-Ophthalmology: Robert B. Daroff Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1300&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Neuro-Ophthalmology: Robert B. Daroff Collection</a>
 </h6>
 <p></p>
 </div>

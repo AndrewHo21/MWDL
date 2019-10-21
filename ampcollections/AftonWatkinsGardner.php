@@ -22,6 +22,6 @@ This collection contains images from Charles Goodman, a photographer in Bluff, U
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2351&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Afton Watkins Gardner</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2351&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Afton Watkins Gardner</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

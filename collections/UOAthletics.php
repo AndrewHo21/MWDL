@@ -45,7 +45,7 @@ University Archives�documents, photographs, physical objects, and audiovisual 
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2498&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in UO Athletics</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2498&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in UO Athletics</a>
 </h6>
 <p></p>
 </div>

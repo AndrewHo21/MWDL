@@ -22,6 +22,6 @@ A variety of public health-related documents from 1996-2017.
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1159&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Online Public Health Library</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1159&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Online Public Health Library</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

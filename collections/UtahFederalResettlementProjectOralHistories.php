@@ -45,7 +45,7 @@ These oral histories are related to the Federal Resettlement Project in Utah, wh
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2429&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Federal Resettlement Project Oral Histories</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2429&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Federal Resettlement Project Oral Histories</a>
 </h6>
 <p></p>
 </div>

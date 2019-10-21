@@ -22,6 +22,6 @@ Newspaper clippings and illustrations related to Buffalo Bill's Wild West tour o
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2403&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in MS 006 William F. Cody Scrapbooks MS6.3788</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2403&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in MS 006 William F. Cody Scrapbooks MS6.3788</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

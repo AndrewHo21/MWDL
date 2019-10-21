@@ -22,6 +22,6 @@ Photos by Limbert and photos of Limbert documenting his exploration of little-kn
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2178&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Robert W. Limbert Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2178&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Robert W. Limbert Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

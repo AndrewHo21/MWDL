@@ -45,7 +45,7 @@ Portal, v. 3, no. 6
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1613&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Paul Jones, the Portal, and the Building of St. John's Episcopal Church</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1613&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Paul Jones, the Portal, and the Building of St. John's Episcopal Church</a>
 </h6>
 <p></p>
 </div>

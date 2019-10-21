@@ -22,6 +22,6 @@ Lessons Volume Eight Number 1 Fall 2006
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1017&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Lessons: The Journal of the Center for Teaching and Learning Excellence</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1017&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Lessons: The Journal of the Center for Teaching and Learning Excellence</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

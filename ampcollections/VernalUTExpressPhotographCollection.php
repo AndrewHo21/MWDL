@@ -22,6 +22,6 @@ Buildings and equipment display evidence of a once-active Dyer Mine operation
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1047&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Vernal (UT) Express Photograph Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1047&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Vernal (UT) Express Photograph Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

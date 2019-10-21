@@ -45,7 +45,7 @@ A view of the Hawaiian village from across the lagoon.
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1238&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Polynesian Cultural Center Photo Collection, 1961-1979</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1238&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Polynesian Cultural Center Photo Collection, 1961-1979</a>
 </h6>
 <p></p>
 </div>

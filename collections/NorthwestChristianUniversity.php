@@ -45,7 +45,7 @@ Founded as Eugene Divinity School in 1895, Northwest Christian University (NCU) 
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2521&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Northwest Christian University</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2521&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Northwest Christian University</a>
 </h6>
 <p></p>
 </div>

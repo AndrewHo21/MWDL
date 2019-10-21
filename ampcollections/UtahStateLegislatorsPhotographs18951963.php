@@ -22,6 +22,6 @@ Men and women have been serving Utah citizens in the Utah State Legislature sinc
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2233&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah State Legislators Photographs, 1895-1963</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2233&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah State Legislators Photographs, 1895-1963</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

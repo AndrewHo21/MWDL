@@ -22,6 +22,6 @@ Correspondence from Lucille Ardelle Clawson Cummings, 1882-1890
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1898&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Hiram B. Clawson Papers</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1898&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Hiram B. Clawson Papers</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

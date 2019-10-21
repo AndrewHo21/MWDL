@@ -45,7 +45,7 @@ Ocular Motor palsy
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1549&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Neuro-Ophthalmology: North American Neuro-Ophthalmology Society Annual Meeting Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1549&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Neuro-Ophthalmology: North American Neuro-Ophthalmology Society Annual Meeting Collection</a>
 </h6>
 <p></p>
 </div>

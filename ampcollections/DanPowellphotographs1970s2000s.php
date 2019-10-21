@@ -22,6 +22,6 @@ Dan Powell is an Associate Professor and Head of the Photography Program in the 
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2258&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Dan Powell photographs, 1970s-2000s</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2258&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Dan Powell photographs, 1970s-2000s</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

@@ -45,7 +45,7 @@ Petition from 1897
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2032&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Legislature. House of Representatives Working Bills, 1896-1989</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2032&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Legislature. House of Representatives Working Bills, 1896-1989</a>
 </h6>
 <p></p>
 </div>

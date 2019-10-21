@@ -45,7 +45,7 @@ Four photographs of 3D artifacts dating 1894-1843, surrounding Utah's entry into
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2463&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Artifact Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2463&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Artifact Collection</a>
 </h6>
 <p></p>
 </div>

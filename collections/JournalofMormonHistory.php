@@ -45,7 +45,7 @@ Journal of Mormon History, Volume 07, 1980
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1649&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Journal of Mormon History</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1649&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Journal of Mormon History</a>
 </h6>
 <p></p>
 </div>

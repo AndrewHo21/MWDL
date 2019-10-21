@@ -45,7 +45,7 @@ The 35mm slide collection of University of Oregon Classics professor Steven Lowe
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2519&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Lowenstam Collection of Ancient Western Art and Archaeology</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2519&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Lowenstam Collection of Ancient Western Art and Archaeology</a>
 </h6>
 <p></p>
 </div>

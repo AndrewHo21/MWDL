@@ -45,7 +45,7 @@ The Entrance of the Royal Nevada (Las Vegas)
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1836&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Dreaming the Skyline: Resort Architecture and the New Urban Space</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1836&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Dreaming the Skyline: Resort Architecture and the New Urban Space</a>
 </h6>
 <p></p>
 </div>

@@ -45,7 +45,7 @@ Frazier Augustus Boutelle (1840-1924) served in the US Army for 57 years, fighti
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2265&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Frazier Augustus Boutelle photographs, c. 1865-1900</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2265&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Frazier Augustus Boutelle photographs, c. 1865-1900</a>
 </h6>
 <p></p>
 </div>

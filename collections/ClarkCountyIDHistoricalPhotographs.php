@@ -45,7 +45,7 @@ $1000 gold sack - Wood Livestock
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1933&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Clark County (ID) Historical Photographs</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1933&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Clark County (ID) Historical Photographs</a>
 </h6>
 <p></p>
 </div>

@@ -22,6 +22,6 @@ Images of posters and poems
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1785&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Beat Poetry, Broadsides, and Little Magazines</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1785&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Beat Poetry, Broadsides, and Little Magazines</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

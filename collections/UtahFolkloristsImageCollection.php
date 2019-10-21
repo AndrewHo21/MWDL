@@ -45,7 +45,7 @@ Craig Miller
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1561&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Folklorists Image Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1561&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Folklorists Image Collection</a>
 </h6>
 <p></p>
 </div>

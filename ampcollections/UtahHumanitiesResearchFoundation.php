@@ -22,6 +22,6 @@ Pen sketches of University of Utah Presidents
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2080&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Humanities Research Foundation</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2080&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Humanities Research Foundation</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

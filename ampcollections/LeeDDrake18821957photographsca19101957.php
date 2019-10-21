@@ -22,6 +22,6 @@ Lee D. Drake (1882-1957) was a newspaper owner and civic booster in Pendleton an
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2263&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Lee D. Drake (1882-1957) photographs, ca. 1910-1957</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2263&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Lee D. Drake (1882-1957) photographs, ca. 1910-1957</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

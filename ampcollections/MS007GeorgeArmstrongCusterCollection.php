@@ -22,6 +22,6 @@
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2272&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in MS 007 George Armstrong Custer Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2272&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in MS 007 George Armstrong Custer Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

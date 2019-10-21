@@ -45,7 +45,7 @@ The Randall V. Mills Archives of Northwest Folklore, established in 1966, is the
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2508&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Northwest Folklife Digital Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2508&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Northwest Folklife Digital Collection</a>
 </h6>
 <p></p>
 </div>

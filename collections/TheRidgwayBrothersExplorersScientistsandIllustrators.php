@@ -45,7 +45,7 @@ Drawing of two men in newspaper office
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1142&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in The Ridgway Brothers: Explorers, Scientists, and Illustrators</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1142&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in The Ridgway Brothers: Explorers, Scientists, and Illustrators</a>
 </h6>
 <p></p>
 </div>

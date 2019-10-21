@@ -3681,7 +3681,7 @@
 <!-- Collection #2615 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "CivilianConservationCorpsNewslettersCollection19351941.php">Civilian Conservation Corps Newsletters Collection, ...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/JWillardMarriottLibrary.php">J. Willard Marriott Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
 </tr>
 <!-- Collection #2616 -->
 <tr>
@@ -3702,6 +3702,41 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "FolkloreSocietyofUtah.php">Folklore Society of Utah</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversity.php">Utah State University</a></td>
+</tr>
+<!-- Collection #2620 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahCountyUtahVitalRecords.php">Utah County (Utah) Vital Records</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
+</tr>
+<!-- Collection #2621 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "GoldenSpikeSesquicentennial.php">Golden Spike Sesquicentennial</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
+</tr>
+<!-- Collection #2622 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahGovernorClyde19571965Collection.php">Utah Governor Clyde (1957-1965) Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversity.php">Utah State University</a></td>
+</tr>
+<!-- Collection #2628 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "FifeFolkloreArchivesOralHistoriesCommunityDrivenCollections.php">Fife Folklore Archives Oral Histories: Community-Dri...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
+</tr>
+<!-- Collection #2629 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "JuanitaBrooksPapers.php">Juanita Brooks Papers</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2630 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "MidvaleUTMuseum.php">Midvale (UT) Museum</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/MidvaleUTMuseum.php">Midvale (UT) Museum</a></td>
+</tr>
+<!-- Collection #2643 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "CarbonCountyUtahVitalRecords.php">Carbon County (Utah) Vital Records</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
 </tr>
 </tbody>
 </table>

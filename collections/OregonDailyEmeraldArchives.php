@@ -45,7 +45,7 @@ The�Oregon Daily Emerald�(ODE) Archives is a full text searchable database o
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2515&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Oregon Daily Emerald Archives</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2515&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Oregon Daily Emerald Archives</a>
 </h6>
 <p></p>
 </div>

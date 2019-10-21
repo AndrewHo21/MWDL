@@ -45,7 +45,7 @@ The Ogden Union Stockyard was a key fixture in the largest livestock market west
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2342&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Ogden Stockyards Photographs, Memorabilia and Oral HIstories</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2342&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Ogden Stockyards Photographs, Memorabilia and Oral HIstories</a>
 </h6>
 <p></p>
 </div>

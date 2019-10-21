@@ -45,7 +45,7 @@ This series contains a register used to record deaths in the county for the year
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2524&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Tooele County (Utah) Clerk Register of Deaths</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2524&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Tooele County (Utah) Clerk Register of Deaths</a>
 </h6>
 <p></p>
 </div>

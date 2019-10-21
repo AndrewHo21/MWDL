@@ -22,6 +22,6 @@ The UO Veterans Oral History Project was established in 2012 with the aim of doc
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2511&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in UO Veterans</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2511&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in UO Veterans</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

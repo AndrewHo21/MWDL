@@ -22,6 +22,6 @@ Correspondence between John Mills Whitaker and others, 1898-1899
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1872&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in John Mills Whitaker Papers</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1872&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in John Mills Whitaker Papers</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

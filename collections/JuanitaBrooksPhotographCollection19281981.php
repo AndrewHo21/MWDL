@@ -45,7 +45,7 @@ The Juanita Brooks Photograph Collection contains images documenting Brooks�s 
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1908&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Juanita Brooks Photograph Collection, 1928-1981</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1908&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Juanita Brooks Photograph Collection, 1928-1981</a>
 </h6>
 <p></p>
 </div>

@@ -22,6 +22,6 @@ Invasion of the Nerve Snatchers, Part III (Coronal T2 Annotated)
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1181&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Neuro-Ophthalmology: Frank B. Walsh Society Archives</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1181&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Neuro-Ophthalmology: Frank B. Walsh Society Archives</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

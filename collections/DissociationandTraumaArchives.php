@@ -45,7 +45,7 @@ Full text searchable articles and case studies published in the 1800s and early 
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2522&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Dissociation and Trauma Archives</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2522&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Dissociation and Trauma Archives</a>
 </h6>
 <p></p>
 </div>

@@ -18,7 +18,7 @@ public class ProjectConstants {
      *
      * Every interaction with the Collection Data CSV file should use this pointer
      */
-    public static final String CollectionDataCSV = "collectionData052619.csv";
+    public static final String CollectionDataCSV = "collectionData101519.csv";
 
 
     /**

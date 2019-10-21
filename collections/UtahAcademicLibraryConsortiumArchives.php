@@ -45,7 +45,7 @@ Annual Report. Utah College Library Council. 1983-1984
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1196&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Academic Library Consortium Archives</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1196&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Academic Library Consortium Archives</a>
 </h6>
 <p></p>
 </div>

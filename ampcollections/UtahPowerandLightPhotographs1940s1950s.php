@@ -22,6 +22,6 @@ The Utah Power and Light Collection has images of�various schools, businesses,
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2232&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Power and Light Photographs, 1940s-1950s</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2232&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Power and Light Photographs, 1940s-1950s</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

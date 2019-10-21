@@ -22,6 +22,6 @@ Roy C. Andrews was a school teacher and administrator in Michigan, Texas, Arkans
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2500&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Roy C. Andrews photographs, 1902-1955</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2500&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Roy C. Andrews photographs, 1902-1955</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

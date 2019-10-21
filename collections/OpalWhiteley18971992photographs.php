@@ -45,7 +45,7 @@ Opal Stanley Whiteley (1897�?) was an author and speaker who studied biology a
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2495&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Opal Whiteley (1897-1992) photographs</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2495&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Opal Whiteley (1897-1992) photographs</a>
 </h6>
 <p></p>
 </div>

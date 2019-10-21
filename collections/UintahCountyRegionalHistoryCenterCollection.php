@@ -45,7 +45,7 @@ Ron Stewart along with many other children march in the Children's Day Parade
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1029&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Uintah County Regional History Center Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1029&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Uintah County Regional History Center Collection</a>
 </h6>
 <p></p>
 </div>

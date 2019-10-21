@@ -45,7 +45,7 @@ William F. Cody in front of his tent
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2381&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in MS 006 William F. Cody Photo Albums - P.6.1573</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2381&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in MS 006 William F. Cody Photo Albums - P.6.1573</a>
 </h6>
 <p></p>
 </div>

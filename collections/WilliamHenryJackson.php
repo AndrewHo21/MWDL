@@ -45,7 +45,7 @@ Along the North Platte River, Oregon Trail
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1098&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in William Henry Jackson</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1098&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in William Henry Jackson</a>
 </h6>
 <p></p>
 </div>

@@ -22,6 +22,6 @@ The Cache Daughters of Utah Pioneers Museum honors the pioneers who came to Utah
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2423&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Cache Daughters of Utah Pioneers Museum Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2423&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Cache Daughters of Utah Pioneers Museum Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

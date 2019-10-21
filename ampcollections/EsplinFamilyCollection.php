@@ -22,6 +22,6 @@ Scotland map from John Esplin's Bible
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1643&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Esplin Family Collection</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1643&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Esplin Family Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

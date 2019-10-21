@@ -45,7 +45,7 @@ Committee Executive Summary
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1626&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Governor Scott M. Matheson (1977-1984). Committee on Executive Reorganization, 1978</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1626&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Governor Scott M. Matheson (1977-1984). Committee on Executive Reorganization, 1978</a>
 </h6>
 <p></p>
 </div>

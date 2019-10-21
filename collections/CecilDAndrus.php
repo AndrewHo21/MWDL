@@ -45,7 +45,7 @@ Democrat Cecil D. Andrus (1931- ) served as U.S. Secretary of the Interior from 
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2349&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Cecil D. Andrus</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2349&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Cecil D. Andrus</a>
 </h6>
 <p></p>
 </div>

@@ -45,7 +45,7 @@ U-News & Views June 2007
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1232&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Water Wise Utah</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1232&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Water Wise Utah</a>
 </h6>
 <p></p>
 </div>

@@ -45,7 +45,7 @@ A Sermon Preached at Saint Dunstans
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1094&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in John Donne Sermons</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1094&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in John Donne Sermons</a>
 </h6>
 <p></p>
 </div>

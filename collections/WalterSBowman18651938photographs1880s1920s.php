@@ -45,7 +45,7 @@ Walter S. Bowman (1865-1938) was a professional photographer who worked in Pendl
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2264&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Walter S. Bowman (1865-1938) photographs, 1880s-1920s</a>
+<a href="https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2264&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Walter S. Bowman (1865-1938) photographs, 1880s-1920s</a>
 </h6>
 <p></p>
 </div>
